@@ -18,7 +18,11 @@ _PENDING_
 
 - Change Background
 - Switch to Dark Mode\*
-- Autohide/show Dock\*
+- Autohide/show Dock
+    ```
+    sudo dnf install gnome-shell-extension-dash-to-dock
+    ```
+    Customize as needed
 - Customize Terminal appearance ✅
 
 #### Touchpad/Mouse
