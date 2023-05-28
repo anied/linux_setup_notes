@@ -30,6 +30,7 @@ _PENDING_
 - Touch to click ✅
 - Lower right corner quick\*
 - Set preferred mouse scroll direction ✅
+- Gesture support: https://ubuntuhandbook.org/index.php/2022/06/touchpad-gestures-ubuntu-22-04-xorg/
 
 #### Other
 
